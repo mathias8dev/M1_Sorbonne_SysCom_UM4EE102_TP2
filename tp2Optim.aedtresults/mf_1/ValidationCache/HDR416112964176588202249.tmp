@@ -1,0 +1,12 @@
+$begin 'ValidationCache'
+	$begin 'OneValidationResult'
+		Variation='e=\'35um\' h=\'1.5800000000000001mm\' l0=\'60mm\' l_sub=\'80mm\' w=\'3.1000000000000001mm\' w_sub=\'50mm\' wr=\'15\''
+		Status=true
+		FileName='VI467412964176588242076.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
+		Variation='e=\'35um\' h=\'1.5800000000000001mm\' l0=\'60mm\' l_sub=\'80mm\' w=\'3mm\' w_sub=\'50mm\' wr=\'15\''
+		Status=true
+		FileName='VI4BFA12964176588285392.tmp'
+	$end 'OneValidationResult'
+$end 'ValidationCache'

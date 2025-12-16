@@ -1,0 +1,141 @@
+SimValueCacheVersionID=1
+$begin 'SimValueInfos'
+	NextUniqueID=7
+	MoveBackwards=false
+	$begin 'SimValue'
+		ID=0
+		$begin 'SimValueParams'
+			QuantityName='Gamma(1)'
+			ValueState(90, 15, 1, 2)
+			MatrixSize(0, 0)
+		$end 'SimValueParams'
+	$end 'SimValue'
+	$begin 'SimValue'
+		ID=1
+		$begin 'SimValueParams'
+			QuantityName='S(1,1)'
+			ValueState(90, 15, 1, 2)
+			MatrixSize(0, 0)
+		$end 'SimValueParams'
+	$end 'SimValue'
+	$begin 'SimValue'
+		ID=2
+		$begin 'SimValueParams'
+			QuantityName='S(2,1)'
+			ValueState(90, 15, 1, 2)
+			MatrixSize(0, 0)
+		$end 'SimValueParams'
+	$end 'SimValue'
+	$begin 'SimValue'
+		ID=3
+		$begin 'SimValueParams'
+			QuantityName='S(1,2)'
+			ValueState(90, 15, 1, 2)
+			MatrixSize(0, 0)
+		$end 'SimValueParams'
+	$end 'SimValue'
+	$begin 'SimValue'
+		ID=4
+		$begin 'SimValueParams'
+			QuantityName='S(2,2)'
+			ValueState(90, 15, 1, 2)
+			MatrixSize(0, 0)
+		$end 'SimValueParams'
+	$end 'SimValue'
+	$begin 'SimValue'
+		ID=5
+		$begin 'SimValueParams'
+			QuantityName='St(1,1)'
+			ValueState(90, 15, 1, 2)
+			MatrixSize(0, 0)
+		$end 'SimValueParams'
+	$end 'SimValue'
+	$begin 'SimValue'
+		ID=6
+		$begin 'SimValueParams'
+			QuantityName='St(2,1)'
+			ValueState(90, 15, 1, 2)
+			MatrixSize(0, 0)
+		$end 'SimValueParams'
+	$end 'SimValue'
+$end 'SimValueInfos'
+$begin 'SimValueCache'
+	$begin 'DesignMap'
+		DesignID=0
+		$begin 'SolutionMap'
+			$begin 'ContextMap'
+				SolutionID=70
+			$end 'ContextMap'
+			$begin 'ContextMap'
+				SolutionID=147
+			$end 'ContextMap'
+			$begin 'ContextMap'
+				SolutionID=148
+			$end 'ContextMap'
+			$begin 'ContextMap'
+				SolutionID=151
+				$begin 'VersionMap'
+					$begin 'ReportTypeSolnDef'
+						ReportType=1
+						SimValueContext(3, 0, 2, 0, false, false, -1, 1, 0, 1, 1, '', 0, 0)
+					$end 'ReportTypeSolnDef'
+					$begin 'MajorVVMap'
+						VersionID=0
+						$begin 'MinorVVMap'
+							MajorVariation='e=\'35um\' h=\'1.5800000000000001mm\' l0=\'60mm\' l_sub=\'80mm\' w=\'3.1000000000000001mm\' w_sub=\'50mm\' wr=\'15\''
+							MinorCacheFile='min202B9908176591955631.tmp'
+						$end 'MinorVVMap'
+						$begin 'MinorVVMap'
+							MajorVariation='e=\'35um\' h=\'1.5800000000000001mm\' l0=\'60mm\' l_sub=\'80mm\' w=\'2.5mm\' w_sub=\'50mm\' wr=\'15\''
+							MinorCacheFile='min231A9908176591978646.tmp'
+						$end 'MinorVVMap'
+						$begin 'MinorVVMap'
+							MajorVariation='e=\'35um\' h=\'1.5800000000000001mm\' l0=\'60mm\' l_sub=\'80mm\' w=\'3.5mm\' w_sub=\'50mm\' wr=\'15\''
+							MinorCacheFile='min288C9908176592021362.tmp'
+						$end 'MinorVVMap'
+						$begin 'MinorVVMap'
+							MajorVariation='e=\'35um\' h=\'1.5800000000000001mm\' l0=\'60mm\' l_sub=\'80mm\' w=\'15mm\' w_sub=\'50mm\' wr=\'15\''
+							MinorCacheFile='min365A9908176592129573.tmp'
+						$end 'MinorVVMap'
+						$begin 'MinorVVMap'
+							MajorVariation='e=\'35um\' h=\'1.5800000000000001mm\' l0=\'60mm\' l_sub=\'80mm\' w=\'3mm\' w_sub=\'50mm\' wr=\'15\''
+							MinorCacheFile='min50049908176592330787.tmp'
+						$end 'MinorVVMap'
+					$end 'MajorVVMap'
+				$end 'VersionMap'
+				$begin 'VersionMap'
+					$begin 'ReportTypeSolnDef'
+						ReportType=0
+						SimValueContext(3, 0, 2, 0, false, false, -1, 1, 0, 1, 1, '', 0, 0)
+					$end 'ReportTypeSolnDef'
+					$begin 'MajorVVMap'
+						VersionID=0
+						$begin 'MinorVVMap'
+							MajorVariation='e=\'35um\' h=\'1.5800000000000001mm\' l0=\'60mm\' l_sub=\'80mm\' w=\'3.1000000000000001mm\' w_sub=\'50mm\' wr=\'15\''
+							MinorCacheFile='min202B9908176591955632.tmp'
+						$end 'MinorVVMap'
+						$begin 'MinorVVMap'
+							MajorVariation='e=\'35um\' h=\'1.5800000000000001mm\' l0=\'60mm\' l_sub=\'80mm\' w=\'2.5mm\' w_sub=\'50mm\' wr=\'15\''
+							MinorCacheFile='min231A9908176591978647.tmp'
+						$end 'MinorVVMap'
+						$begin 'MinorVVMap'
+							MajorVariation='e=\'35um\' h=\'1.5800000000000001mm\' l0=\'60mm\' l_sub=\'80mm\' w=\'3.5mm\' w_sub=\'50mm\' wr=\'15\''
+							MinorCacheFile='min288C9908176592021363.tmp'
+						$end 'MinorVVMap'
+						$begin 'MinorVVMap'
+							MajorVariation='e=\'35um\' h=\'1.5800000000000001mm\' l0=\'60mm\' l_sub=\'80mm\' w=\'15mm\' w_sub=\'50mm\' wr=\'15\''
+							MinorCacheFile='min365A9908176592129574.tmp'
+						$end 'MinorVVMap'
+						$begin 'MinorVVMap'
+							MajorVariation='e=\'35um\' h=\'1.5800000000000001mm\' l0=\'60mm\' l_sub=\'80mm\' w=\'3mm\' w_sub=\'50mm\' wr=\'15\''
+							MinorCacheFile='min50049908176592330788.tmp'
+						$end 'MinorVVMap'
+					$end 'MajorVVMap'
+				$end 'VersionMap'
+			$end 'ContextMap'
+			$begin 'ContextMap'
+				SolutionID=408
+			$end 'ContextMap'
+		$end 'SolutionMap'
+	$end 'DesignMap'
+$end 'SimValueCache'

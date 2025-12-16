@@ -1,0 +1,32 @@
+$begin 'ValidationCache'
+	$begin 'OneValidationResult'
+		Variation='e=\'35um\' h=\'1.5800000000000001mm\' l0=\'60mm\' l_sub=\'80mm\' w=\'15mm\' w_sub=\'50mm\' wr=\'15\''
+		Status=true
+		FileName='VI287C9908176592020860.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
+		Variation='e=\'35um\' h=\'1.5800000000000001mm\' l0=\'60mm\' l_sub=\'80mm\' w=\'2.5mm\' w_sub=\'50mm\' wr=\'15\''
+		Status=true
+		FileName='VI201E9908176591955229.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
+		Variation='e=\'35um\' h=\'1.5800000000000001mm\' l0=\'60mm\' l_sub=\'80mm\' w=\'3.1000000000000001mm\' w_sub=\'50mm\' wr=\'15\''
+		Status=true
+		FileName='VI1AF3990817659191478.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
+		Variation='e=\'35um\' h=\'1.5800000000000001mm\' l0=\'60mm\' l_sub=\'80mm\' w=\'3.5mm\' w_sub=\'50mm\' wr=\'15\''
+		Status=true
+		FileName='VI23209908176591978848.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
+		Variation='e=\'35um\' h=\'1.5800000000000001mm\' l0=\'60mm\' l_sub=\'80mm\' w=\'3mm\' w_sub=\'50mm\' wr=\'15\''
+		Status=true
+		FileName='VI111212964176587823520.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
+		Variation='e=\'35um\' h=\'1.5800000000000001mm\' l0=\'60mm\' l_sub=\'80mm\' w=\'5mm\' w_sub=\'50mm\' wr=\'15\''
+		Status=true
+		FileName='VI043912964176587722816.tmp'
+	$end 'OneValidationResult'
+$end 'ValidationCache'
